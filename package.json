@@ -1,0 +1,22 @@
+{
+  "name": "fitnesstracker",
+  "version": "1.0.0",
+  "description": "workout",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattBongiorno/fitnesstracker.git"
+  },
+  "keywords": [
+    "fitness"
+  ],
+  "author": "Matthew Bongiorno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MattBongiorno/fitnesstracker/issues"
+  },
+  "homepage": "https://github.com/MattBongiorno/fitnesstracker#readme"
+}
